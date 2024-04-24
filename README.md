@@ -2,9 +2,9 @@
 Учебное задание 3.14.1 (HW-01) [Skillfactory](https://skillfactory.ru/)  
 Выполнил студент [Владислав Мирошин](https://github.com/Vlad-Miroshin) поток PHPPRO_22 
 
-## Содержание
+### Содержание
 
-- Дисклеймер
+- [Дисклеймер](./partials//disclaimer.md)
 
 ### Что такое GIT ?
 
