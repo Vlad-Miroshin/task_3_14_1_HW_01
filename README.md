@@ -4,6 +4,7 @@
 
 ### Содержание
 
+- [Аннотация](./partials//annotation.md)
 - [Дисклеймер](./partials//disclaimer.md)
 
 ### Что такое GIT ?
