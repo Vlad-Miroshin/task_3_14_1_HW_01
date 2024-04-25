@@ -11,5 +11,5 @@ git config --global user.email "ppvlad@mail.ru"
 
 
 
-[< оглавление](../README.md)
+[< О Г Л А В Л Е Н И Е](../README.md)
 

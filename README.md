@@ -38,6 +38,7 @@
 
 #### Контроль файлов
 
+- [git status](./partials/git_status.md)
 - git status
 - git log
 - git diff

@@ -22,5 +22,5 @@ git clone <путь к проекту в удалённом репозитори
 [![git](../assets/git.png "Команда git clone")](https://git-scm.com/docs/git-clone) [git-clone](https://git-scm.com/docs/git-clone)
 
 
-[< оглавление](../README.md)
+[< О Г Л А В Л Е Н И Е](../README.md)
 
