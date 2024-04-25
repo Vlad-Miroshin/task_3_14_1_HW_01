@@ -18,7 +18,7 @@
 
 #### Создание и настройка
 
-- git init
+- [git init | git clone](./partials/git_init_clone.md)
 - git config
 
 #### Добавление файлов
@@ -37,8 +37,6 @@
 
 #### Удалённый репозиторий
 
-- Использование GitHub
-- git clone
 - git push
 - git pull
 - git fetch
