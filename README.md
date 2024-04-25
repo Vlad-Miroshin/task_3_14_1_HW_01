@@ -39,13 +39,12 @@
 #### Контроль файлов
 
 - [git status](./partials/git_status.md)
-- git status
-- git log
-- git diff
+- [git log](./partials/git_log.md)
+- [git diff](./partials/git_diff.md)
 
 #### Локальный репозиторий
 
-- git commit
+- [git commit](./partials/git_commit.md)
 
 #### Удалённый репозиторий
 

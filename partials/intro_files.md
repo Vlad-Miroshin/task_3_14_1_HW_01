@@ -6,9 +6,7 @@
 
 Для указания системе контроля версий какие файлы следует исключать служит текстовый файл с именем ".gitignore". В этом файле в специальном формате описываются шаблоны имён игнорируемых файлов и папок.
 
-[Оригинальная документация по шаблонам .gitignore](https://git-scm.com/docs/gitignore)
-
-
+[![git](../assets/git.png "Шаблоны .gitignore")](https://git-scm.com/docs/gitignore) [.gitignore](https://git-scm.com/docs/gitignore)
 
 
 
