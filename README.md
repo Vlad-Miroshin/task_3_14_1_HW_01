@@ -28,6 +28,7 @@
 
 #### Создание и настройка
 
+- [git version](./partials/git_version.md)
 - [git init | git clone](./partials/git_init_clone.md)
 - [git config](./partials/git_config.md)
 
