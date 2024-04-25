@@ -1,6 +1,16 @@
-# Краткое руководство по GIT
-Учебное задание 3.14.1 (HW-01) [Skillfactory](https://skillfactory.ru/)  
-Выполнил студент [Владислав Мирошин](https://github.com/Vlad-Miroshin) поток PHPPRO_22 
+# Краткое руководство по командам GIT # 
+
+<table>
+  <tr>
+    <td><a href="https://git-scm.com/"><img src="./assets/git_64.png"></img></a></td>
+    <td>
+Учебное задание 3.14.1 (HW-01) <a href="https://skillfactory.ru/">Skillfactory</a> <br> 
+Выполнил студент <a href="https://github.com/Vlad-Miroshin">Владислав Мирошин</a> поток PHPPRO_22 
+    </td>
+  </tr>
+</table>
+
+
 
 ### Содержание
 
@@ -19,7 +29,7 @@
 #### Создание и настройка
 
 - [git init | git clone](./partials/git_init_clone.md)
-- git config
+- [git config](./partials/git_config.md)
 
 #### Добавление файлов
 
