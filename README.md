@@ -48,7 +48,7 @@
 
 #### Удалённый репозиторий
 
-- git push
+- [git push](./partials/git_push.md)
 - git pull
 - git fetch
 
