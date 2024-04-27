@@ -56,5 +56,5 @@
 #### Ветвление и слияние
 
 - [git branch](./partials/git_branch.md)
-- git checkout | git switch
+- [git checkout | git switch](./partials/git_checkout.md)
 - git merge | git rebase
