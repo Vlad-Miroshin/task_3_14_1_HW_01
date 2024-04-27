@@ -49,7 +49,7 @@
 #### Удалённый репозиторий
 
 - [git push](./partials/git_push.md)
-- git pull
+- [git pull](./partials/git_pull.md)
 - git fetch
 
 #### Ветвление и слияние
