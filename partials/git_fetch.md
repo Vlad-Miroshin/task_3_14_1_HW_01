@@ -1,15 +1,14 @@
-## git push
+## git fetch
 
 ```
-git pull
-git pull origin <branch name>
+git fetch
 ```
 Забрать изменения из удалённого репозитория в локальный и в рабочую папку.
 
 Можно указать в отношении какой ветки следует выполнить операцию.
 
 
-[![git](../assets/git.png "Команда git pull")](https://git-scm.com/docs/git-pull) [git-pull](https://git-scm.com/docs/git-pull)
+[![git](../assets/git.png "Команда git fetch")](https://git-scm.com/docs/git-fetch) [git-fetch](https://git-scm.com/docs/git-fetch)
 
 
 
