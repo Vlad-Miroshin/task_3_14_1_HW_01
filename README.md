@@ -57,4 +57,4 @@
 
 - [git branch](./partials/git_branch.md)
 - [git checkout | git switch](./partials/git_checkout.md)
-- git merge | git rebase
+- [git merge | git rebase](./partials/git_merge.md)
