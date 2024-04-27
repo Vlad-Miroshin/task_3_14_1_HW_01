@@ -36,7 +36,6 @@
 #### Добавление файлов
 
 - [git add](./partials/git_add.md)
-- [git reset](./partials/git_reset.md)
 
 #### Контроль файлов
 
@@ -56,6 +55,6 @@
 
 #### Ветвление и слияние
 
-- git branch
+- [git branch](./partials/git_branch.md)
 - git checkout | git switch
 - git merge | git rebase
